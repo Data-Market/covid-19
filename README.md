@@ -23,7 +23,7 @@ Este repositorio contiene los siguientes recursos:
 
 ## Muestra
 
-La muestra se encuentra disponible para descarga en el siguiente [link]().
+La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/covid-19/blob/main/covid-19-sample.csv).
 
 ## Documentación
 
