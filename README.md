@@ -11,8 +11,8 @@ Datos del Ministerio de Sanidad sobre __la evolución del virus COVID-19 en Espa
 Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: actualizado cada 24h
-* __Volumen estimado__: 
-* __Histórico__: 
+* __Volumen estimado__: 1500 de registros
+* __Histórico__: desde enero de 2020
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#covid-19-dataset), plataforma de referencia de datos externos en España. 
 
