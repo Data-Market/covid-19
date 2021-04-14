@@ -12,7 +12,7 @@ Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: actualizado cada 24h
 * __Volumen estimado__: 1500 de registros
-* __Histórico__: desde enero de 2020
+* __Histórico__: desde enero de 2020 en adelante
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#covid-19-dataset), plataforma de referencia de datos externos en España. 
 
